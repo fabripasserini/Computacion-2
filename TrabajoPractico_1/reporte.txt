@@ -1,0 +1,13 @@
+--- Reporte de la Cadena de Bloques ---
+
+Cantidad total de bloques: 60
+Número de bloques con alertas: 60
+
+La cadena de bloques es íntegra y no contiene errores.
+
+----------------------------------------
+Promedios Generales:
+  Frecuencia: 124.13
+  Presión: 145.01
+  Oxígeno: 95.91
+----------------------------------------
