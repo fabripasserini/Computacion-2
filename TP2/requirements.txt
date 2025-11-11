@@ -1,0 +1,8 @@
+aiohttp
+beautifulsoup4
+lxml
+Pillow
+playwright
+aiofiles
+requests
+webtech
